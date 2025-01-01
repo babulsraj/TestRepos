@@ -31,7 +31,7 @@
 Pod::Spec.new do |s|
   # Required Attributes
   s.name         = 'PodChennai'                              # Name of the library
-  s.version      = '1.0.3'                                   # Version number
+  s.version      = '1.0.4'                                   # Version number
   s.summary      = 'This is a test repo.'                    # Brief description
   s.description  = 'A more detailed description of PodChennai, explaining its purpose and features.'
   s.homepage     = 'https://github.com/babulsraj/TestRepos'  # URL of the library's homepage
@@ -44,7 +44,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'                                    # Swift version
 
   # Source Files
-  s.source_files  = 'PodChennai/**/*'                        # Path to source files
+  s.source_files  = 'PodChennai/PodChennai/**/*'                        # Path to source files
 
   # Resources (Optional)
   # Uncomment and update the following lines if you have resources
