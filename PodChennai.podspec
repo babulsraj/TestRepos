@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   # Required Attributes
   s.name         = 'PodChennai'                             # Name of the library
-  s.version      = '0.1.0'                                 # Version number
-  s.summary      = 'A short description of MyLibrary.'     # Brief description
+  s.version      = '1.0.0'                                 # Version number
+  s.summary      = 'This is a test repo.'     # Brief description
   s.description  = 'A more detailed description of MyLibrary, explaining its purpose and features.'
-  s.homepage     = 'https://github.com/your-username/MyLibrary' # URL of the library's homepage
+  s.homepage     = 'https://github.com/babulsraj/TestRepos' # URL of the library's homepage
   s.license      = { :type => 'MIT', :file => 'LICENSE' }  # License information
-  s.author       = { 'Your Name' => 'your-email@example.com' } # Author's name and email
-  s.source       = { :git => 'https://github.com/your-username/MyLibrary.git', :tag => s.version.to_s } # Git source URL and tag
+  s.author       = { 'Babul S Raj' => 'babulsraj@gmail.com' } # Author's name and email
+  s.source       = { :git => 'https://github.com/babulsraj/TestRepos.git', :tag => s.version.to_s } # Git source URL and tag
   
   # Platform and Language
   s.platform     = :ios, '11.0'                            # Minimum iOS version
