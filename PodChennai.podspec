@@ -31,7 +31,7 @@
 Pod::Spec.new do |s|
   # Required Attributes
   s.name         = 'PodChennai'                              # Name of the library
-  s.version      = '1.0.4'                                   # Version number
+  s.version      = '1.0.5'                                   # Version number
   s.summary      = 'This is a test repo.'                    # Brief description
   s.description  = 'A more detailed description of PodChennai, explaining its purpose and features.'
   s.homepage     = 'https://github.com/babulsraj/TestRepos'  # URL of the library's homepage
